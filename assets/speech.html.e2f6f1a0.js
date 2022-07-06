@@ -1,0 +1,1 @@
+const e={key:"v-e2af970e",path:"/Study/note/speech.html",title:"\u8A00\u8BED\u7406\u8BBA",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654168747e3},filePathRelative:"Study/note/speech.md"};export{e as data};
