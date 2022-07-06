@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroText:"Time flies",tagline:"\u968F\u60F3\u968F\u8BB0",actions:[{text:"\u6307\u5357",link:"/Home",type:"primary"},{text:"\u5B66\u4E60",link:"/Study/note/sentence",type:"info"}]},excerpt:"",headers:[],git:{updatedTime:1654168747e3},filePathRelative:"README.md"};export{e as data};
